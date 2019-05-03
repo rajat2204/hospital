@@ -1,0 +1,54 @@
+#radio{
+	float: left;
+}
+.custom-controls-stacked{
+	display: flex;
+}
+/*.dt-buttons {
+            margin-right: 132px;
+            margin-bottom: 21px;
+            padding-left: 8px;
+            float: right !important;
+            color: #8c26cc !important;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        th {
+            font-weight: bold;
+        }*/
+        .modal-dialog{
+             max-width: 800px  !important;
+        }
+#OpdTreatmentEdit{
+    overflow-y: auto;
+}
+#edit-ipd-treatment{
+    overflow-y: auto;
+}
+
+#id-ipdview .modal-dialog {
+    max-width: 800px;
+}
+#id-ipd-discharge .modal-dialog {
+    max-width: 800px;
+}
+#id-ipd-addtreatment .modal-dialog {
+    max-width: 800px;
+}
+#edit-ipd-treatment .modal-dialog {
+    max-width: 800px;
+}
+.error{
+    color: red;
+}
+.green{
+    color: green;
+}
+.warning{
+    color:orange;
+}
+.jqstooltip { position: absolute;left: 0px;top: 0px;visibility: hidden;background:
+ rgb(0, 0, 0) transparent;background-color: rgba(0,0,0,0.6);
+ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,
+  endColorstr=#99000000);
+ -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";color: white;font: 10px arial, san serif;text-align: left;white-space: nowrap;padding: 5px;border: 1px solid white;z-index: 10000;}.jqsfield { color: white;font: 10px arial, san serif;text-align: left;}
